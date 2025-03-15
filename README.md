@@ -80,3 +80,40 @@ By leveraging **deep learning and image processing**, this project aims to provi
 ```bash
 git clone https://github.com/yourusername/Human-Disease-Detection-Nail-Color.git
 cd Human-Disease-Detection-Nail-Color
+
+
+
+## 🔧 Installation & Usage
+
+### 1️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+
+
+### 2️⃣ Train the Model
+python src/train_model.py
+
+### 3️⃣ Make Predictions
+python src/predict.py --image path/to/image.jpg
+
+📌 Dependencies
+Python 3.8+
+TensorFlow
+Keras
+OpenCV
+NumPy
+Pandas
+Matplotlib
+
+# Install all dependencies using:
+pip install -r requirements.txt
+
+### 👨‍💻 Authors
+Sukhada Chepe (V Sem, Ramdeobaba University)
+Rishi Pande (V Sem, Ramdeobaba University)
+
+### ⭐ Acknowledgments
+Ramdeobaba University, Nagpur – for supporting this research.
+AIIMS – for providing the dataset.
+Open-Source Community – for contributions in deep learning and medical diagnostics.
+
