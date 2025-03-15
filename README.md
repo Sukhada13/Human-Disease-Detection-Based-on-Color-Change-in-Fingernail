@@ -26,9 +26,9 @@ By leveraging **deep learning and image processing**, this project aims to provi
 ## 🏗 Project Structure
 
 📂 Human-Disease-Detection-Nail-Color                                                                                                                                          
-│── 📁 data/                # Dataset (Images & Augmented Images)                                                
-│── 📁 models/              # Trained Model Files                                                                                              
-│── 📁 notebooks/           # Jupyter Notebooks for experiments                                                                                
+│── 📁 Test/                # Test Dataset (Images & Augmented Images)                                                
+│── 📁 Train/              # Train Dataset (Images & Augmented Images)                                                                                            
+│── 📁 train_nails/           # Training Dataset (Images & Augmented Images)                                                                            
 │── 📁 src/                 # Source code                                                                                                                              
 │    │── data_preprocessing.py   # Preprocessing images & extracting RGB values                                                                                      
 │    │── train_model.py          # CNN Model training script                                                                                                      
