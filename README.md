@@ -107,11 +107,11 @@ Matplotlib
 pip install -r requirements.txt                                                                                                                                              
 
 ### 👨‍💻 Authors                                                                                                                                              
-Sukhada Chepe (V Sem, Ramdeobaba University)
-Rishi Pande (V Sem, Ramdeobaba University)
+Sukhada Chepe (V Sem, Ramdeobaba University)                                                                                                                                              
+Rishi Pande (V Sem, Ramdeobaba University)                                                                                                                                              
 
 ### ⭐ Acknowledgments                                                                                                                                              
-Ramdeobaba University, Nagpur – for supporting this research.
-AIIMS – for providing the dataset.
-Open-Source Community – for contributions in deep learning and medical diagnostics.
+Ramdeobaba University, Nagpur – for supporting this research.                                                                                                                                              
+AIIMS – for providing the dataset.                                                                                                                                              
+Open-Source Community – for contributions in deep learning and medical diagnostics.                                                                                                                                              
 
