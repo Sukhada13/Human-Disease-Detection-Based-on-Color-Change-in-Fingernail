@@ -94,23 +94,23 @@ python src/train_model.py
 ### 3️⃣ Make Predictions
 python src/predict.py --image path/to/image.jpg
 
-📌 Dependencies
-Python 3.8+
-TensorFlow
-Keras
-OpenCV
-NumPy
-Pandas
-Matplotlib
+📌 Dependencies                                                                                                                                                
+Python 3.8+                                                                                                        
+TensorFlow                                                                                                                                              
+Keras                                                                                                                                              
+OpenCV                                                                                                                                              
+NumPy                                                                                                                                              
+Pandas                                                                                                                                              
+Matplotlib                                                                                                                                              
 
-# Install all dependencies using:
-pip install -r requirements.txt
+# Install all dependencies using:                                                                                                                                              
+pip install -r requirements.txt                                                                                                                                              
 
-### 👨‍💻 Authors
+### 👨‍💻 Authors                                                                                                                                              
 Sukhada Chepe (V Sem, Ramdeobaba University)
 Rishi Pande (V Sem, Ramdeobaba University)
 
-### ⭐ Acknowledgments
+### ⭐ Acknowledgments                                                                                                                                              
 Ramdeobaba University, Nagpur – for supporting this research.
 AIIMS – for providing the dataset.
 Open-Source Community – for contributions in deep learning and medical diagnostics.
