@@ -77,16 +77,14 @@ By leveraging **deep learning and image processing**, this project aims to provi
 ## 🔧 Installation & Usage
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/yourusername/Human-Disease-Detection-Nail-Color.git
 cd Human-Disease-Detection-Nail-Color
-
-
 
 ## 🔧 Installation & Usage
 
 ### 1️⃣ Install Dependencies
-```bash
+
 pip install -r requirements.txt
 
 
